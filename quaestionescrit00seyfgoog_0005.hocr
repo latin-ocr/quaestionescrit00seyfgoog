@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionescrit00seyfgoog_0005.png"; bbox 0 0 3584 5292; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 703 1740 1272 1822">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 703 1740 1272 1822">
+     <span class='ocr_line' id='line_1_1' title="bbox 703 1740 1272 1822; baseline 0.007 -3"><span class='ocrx_word' id='word_1_1' title='bbox 703 1747 878 1820; x_wconf 77' lang='lat' dir='ltr'><strong>PATRI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 917 1745 1133 1822; x_wconf 78' lang='lat' dir='ltr'>OPTIMO</span> <span class='ocrx_word' id='word_1_3' title='bbox 1265 1740 1272 1747; x_wconf 49' lang='lat'><strong>⁴</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 418 2161 1325 2342">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 418 2161 1325 2342">
+     <span class='ocr_line' id='line_1_2' title="bbox 418 2161 1325 2342; baseline 0.004 -70"><span class='ocrx_word' id='word_1_4' title='bbox 418 2301 427 2314; x_wconf 15' lang='grc' dir='ltr'>Β</span> <span class='ocrx_word' id='word_1_5' title='bbox 510 2161 871 2275; x_wconf 81' lang='lat' dir='ltr'><strong>MAURITIO</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 936 2161 1325 2342; x_wconf 78' lang='lat' dir='ltr'><strong>SEYFFERT.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1796 5292">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1796 5292">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1796 5292; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1796 5292; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
